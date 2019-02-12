@@ -1,0 +1,15 @@
+.container{
+    background-color: #333333;
+    height: 50px;
+    display: flex;
+    line-height: 50px;
+}
+.item{
+    display: inline;
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.item:hover{
+    color: lightsalmon;
+}
